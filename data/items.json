@@ -1,0 +1,12 @@
+[
+  { "id": "12345", "name": "Milk 500ml", "price": 50 },
+  { "id": "67890", "name": "Bread", "price": 40 },
+  { "id": "54321", "name": "Sugar 1kg", "price": 100 },
+  { "id": "98765", "name": "Eggs 12pcs", "price": 120 },
+  { "id": "11223", "name": "Rice 1kg", "price": 80 },
+  { "id": "44556", "name": "Butter 200g", "price": 150 },
+  { "id": "77889", "name": "Cheese 250g", "price": 200 },
+  { "id": "33445", "name": "Chicken Breast 500g", "price": 300 },
+  { "id": "66778", "name": "Pasta 500g", "price": 60 },
+  { "id": "99001", "name": "Tomato Sauce 400g", "price": 70 }
+]
